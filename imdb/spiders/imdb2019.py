@@ -10,6 +10,7 @@ class Imdb2019Spider(scrapy.Spider):
 
     def parse(self, response):
         for movie in response.xpath("//div[@class='lister-list']/div[@class='lister-item mode-advanced']"):
+            ### 'rank' adalah bersifat opsional, bisa digunakan jika ingin tahu ranking title based on popularity.
             # rank = movie.xpath(".//div[@class='lister-item-content']/h3/span[@class='lister-item-index unbold text-primary']/text()").get()
             # rank = re.findall(r'\d+', rank)
             judul = movie.xpath(".//div[@class='lister-item-content']/h3/a/text()").get()
