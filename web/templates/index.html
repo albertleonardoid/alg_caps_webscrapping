@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>IMDB 2019</title>
+</head>
+<body>
+      <div class="container">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th scope="col">Judul</th>
+                <th scope="col">Rating</th>
+                <th scope="col">Metascore</th>
+                <th scope="col">Votes</th>
+              </tr>
+            </thead>
+            <tbody>
+                {% for movie in movies %}
+                <tr>
+                    <th scope="row">{{movie.get('judul')}}</th>
+                    <td>{{movie.get('imdb_rating')}}</td>
+                    <td>{{movie.get('metascore')}}</td>
+                    <td>{{movie.get('votes')}}</td>
+                </tr>
+                {% endfor %}  
+            </tbody>
+            
+          </table>
+      </div>
+      
+</body>
+</html>

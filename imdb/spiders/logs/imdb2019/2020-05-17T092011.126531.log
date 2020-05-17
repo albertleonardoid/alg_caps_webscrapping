@@ -1,0 +1,231 @@
+2020-05-17 09:20:11 [scrapy] DEBUG: Crawled (200) <GET https://www.imdb.com/robots.txt> (referer: None) ['cached']
+2020-05-17 09:20:11 [scrapy] DEBUG: Crawled (200) <GET https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31> (referer: None) ['cached']
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Star Wars: Episode IX - The Rise of Skywalker', 'imdb_rating': '6.7', 'metascore': '53        ', 'votes': '320682'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Mandalorian', 'imdb_rating': '8.7', 'metascore': None, 'votes': '167835'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'After Life', 'imdb_rating': '8.5', 'metascore': None, 'votes': '67904'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Dead to Me', 'imdb_rating': '8.1', 'metascore': None, 'votes': '38015'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Once Upon a Time... in Hollywood', 'imdb_rating': '7.7', 'metascore': None, 'votes': '463890'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Gentlemen', 'imdb_rating': '7.9', 'metascore': '51        ', 'votes': '131658'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Parasite', 'imdb_rating': '8.6', 'metascore': None, 'votes': '404129'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Bad Education', 'imdb_rating': '7.2', 'metascore': None, 'votes': '12923'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Lodge', 'imdb_rating': '6.1', 'metascore': None, 'votes': '12706'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Platform', 'imdb_rating': '7.0', 'metascore': None, 'votes': '119158'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Knives Out', 'imdb_rating': '7.9', 'metascore': None, 'votes': '300447'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': '1917', 'imdb_rating': '8.3', 'metascore': None, 'votes': '307439'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Avengers: Endgame', 'imdb_rating': '8.4', 'metascore': None, 'votes': '715907'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Joker', 'imdb_rating': '8.5', 'metascore': '59        ', 'votes': '785955'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Reckoning', 'imdb_rating': '6.5', 'metascore': None, 'votes': '625'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'What We Do in the Shadows', 'imdb_rating': '8.4', 'metascore': None, 'votes': '22619'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Witcher', 'imdb_rating': '8.3', 'metascore': None, 'votes': '252881'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Jojo Rabbit', 'imdb_rating': '7.9', 'metascore': '58        ', 'votes': '212171'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Chernobyl', 'imdb_rating': '9.4', 'metascore': None, 'votes': '461199'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Boys', 'imdb_rating': '8.7', 'metascore': None, 'votes': '144070'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Midsommar', 'imdb_rating': '7.1', 'metascore': None, 'votes': '151858'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Little Women', 'imdb_rating': '7.9', 'metascore': None, 'votes': '102946'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Hustlers', 'imdb_rating': '6.3', 'metascore': None, 'votes': '67768'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'NOS4A2', 'imdb_rating': '6.7', 'metascore': None, 'votes': '5456'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Wretched', 'imdb_rating': '5.8', 'metascore': None, 'votes': '2106'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Sex Education', 'imdb_rating': '8.3', 'metascore': None, 'votes': '132036'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Code 8', 'imdb_rating': '6.1', 'metascore': '48        ', 'votes': '26047'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Jumanji: The Next Level', 'imdb_rating': '6.7', 'metascore': '58        ', 'votes': '144582'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Assistant', 'imdb_rating': '5.9', 'metascore': None, 'votes': '3683'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Uncut Gems', 'imdb_rating': '7.5', 'metascore': None, 'votes': '162349'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Lighthouse', 'imdb_rating': '7.6', 'metascore': None, 'votes': '102025'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Batwoman', 'imdb_rating': '3.5', 'metascore': None, 'votes': '25674'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Harley Quinn', 'imdb_rating': '8.4', 'metascore': None, 'votes': '6773'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Ford v Ferrari', 'imdb_rating': '8.1', 'metascore': None, 'votes': '213841'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Irishman', 'imdb_rating': '7.9', 'metascore': None, 'votes': '288307'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Brassic', 'imdb_rating': '8.2', 'metascore': None, 'votes': '2611'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Morning Show', 'imdb_rating': '8.4', 'metascore': None, 'votes': '33927'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': '6 Underground', 'imdb_rating': '6.1', 'metascore': '41        ', 'votes': '120239'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'It Chapter Two', 'imdb_rating': '6.6', 'metascore': '58        ', 'votes': '176188'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'The Lion King', 'imdb_rating': '6.9', 'metascore': '55        ', 'votes': '190118'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Bombshell', 'imdb_rating': '6.8', 'metascore': None, 'votes': '58318'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Hanna', 'imdb_rating': '7.5', 'metascore': None, 'votes': '17975'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Portrait of a Lady on Fire', 'imdb_rating': '8.2', 'metascore': None, 'votes': '37056'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Ramy', 'imdb_rating': '8.0', 'metascore': None, 'votes': '4915'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Euphoria', 'imdb_rating': '8.3', 'metascore': None, 'votes': '40620'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Frozen II', 'imdb_rating': '6.9', 'metascore': None, 'votes': '108030'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Doctor Sleep', 'imdb_rating': '7.4', 'metascore': '59        ', 'votes': '101782'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Spider-Man: Far from Home', 'imdb_rating': '7.5', 'metascore': None, 'votes': '289418'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Angel Has Fallen', 'imdb_rating': '6.4', 'metascore': '45        ', 'votes': '66190'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31>
+{'judul': 'Aladdin', 'imdb_rating': '7.0', 'metascore': '53        ', 'votes': '205056'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Crawled (200) <GET https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51> (referer: https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31) ['cached']
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'The Umbrella Academy', 'imdb_rating': '7.9', 'metascore': None, 'votes': '98890'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Prodigal Son', 'imdb_rating': '7.7', 'metascore': None, 'votes': '8436'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Booksmart', 'imdb_rating': '7.2', 'metascore': None, 'votes': '76473'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Yesterday', 'imdb_rating': '6.8', 'metascore': '55        ', 'votes': '95137'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Captain Marvel', 'imdb_rating': '6.9', 'metascore': None, 'votes': '411082'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'The Reliant', 'imdb_rating': '3.6', 'metascore': None, 'votes': '1079'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Roswell, New Mexico', 'imdb_rating': '6.1', 'metascore': None, 'votes': '7650'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Marriage Story', 'imdb_rating': '8.0', 'metascore': None, 'votes': '211425'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Guns Akimbo', 'imdb_rating': '6.3', 'metascore': '42        ', 'votes': '21322'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Unbelievable', 'imdb_rating': '8.4', 'metascore': None, 'votes': '56855'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Sea Fever', 'imdb_rating': '5.7', 'metascore': '60        ', 'votes': '3329'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Watchmen', 'imdb_rating': '8.1', 'metascore': None, 'votes': '67308'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Cats', 'imdb_rating': '2.7', 'metascore': None, 'votes': '32685'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Fast & Furious Presents: Hobbs & Shaw', 'imdb_rating': '6.5', 'metascore': '60        ', 'votes': '148706'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'John Wick: Chapter 3 - Parabellum', 'imdb_rating': '7.5', 'metascore': None, 'votes': '244847'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Men in Black: International', 'imdb_rating': '5.7', 'metascore': None, 'votes': '97378'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'After', 'imdb_rating': '5.4', 'metascore': None, 'votes': '27499'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'The King', 'imdb_rating': '7.2', 'metascore': None, 'votes': '72732'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'The Art of Racing in the Rain', 'imdb_rating': '7.5', 'metascore': '43        ', 'votes': '18303'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': "Charlie's Angels", 'imdb_rating': '4.6', 'metascore': '52        ', 'votes': '40482'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Rocketman', 'imdb_rating': '7.3', 'metascore': None, 'votes': '112356'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Zombieland: Double Tap', 'imdb_rating': '6.7', 'metascore': '55        ', 'votes': '108363'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Toy Story 4', 'imdb_rating': '7.8', 'metascore': None, 'votes': '178675'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Creepshow', 'imdb_rating': '7.1', 'metascore': None, 'votes': '2651'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'ZeroZeroZero', 'imdb_rating': '8.2', 'metascore': None, 'votes': '6931'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'His Dark Materials', 'imdb_rating': '7.9', 'metascore': None, 'votes': '34074'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Ad Astra', 'imdb_rating': '6.6', 'metascore': None, 'votes': '163473'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Ready or Not', 'imdb_rating': '6.8', 'metascore': None, 'votes': '78277'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Rambo: Last Blood', 'imdb_rating': '6.2', 'metascore': None, 'votes': '67655'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Midway', 'imdb_rating': '6.7', 'metascore': '47        ', 'votes': '45132'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Alita: Battle Angel', 'imdb_rating': '7.3', 'metascore': '53        ', 'votes': '206019'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'I See You', 'imdb_rating': '6.7', 'metascore': None, 'votes': '10310'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'The Politician', 'imdb_rating': '7.5', 'metascore': None, 'votes': '12563'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'World on Fire', 'imdb_rating': '7.2', 'metascore': None, 'votes': '2904'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Good Boys', 'imdb_rating': '6.7', 'metascore': '60        ', 'votes': '49296'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Terminator: Dark Fate', 'imdb_rating': '6.3', 'metascore': '54        ', 'votes': '119290'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Kingdom', 'imdb_rating': '8.4', 'metascore': None, 'votes': '22704'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Carnival Row', 'imdb_rating': '7.9', 'metascore': None, 'votes': '38186'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Greed', 'imdb_rating': '5.7', 'metascore': '52        ', 'votes': '2032'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'See', 'imdb_rating': '7.6', 'metascore': None, 'votes': '32983'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'X-Men: Dark Phoenix', 'imdb_rating': '5.8', 'metascore': '43        ', 'votes': '138004'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Just Mercy', 'imdb_rating': '7.5', 'metascore': None, 'votes': '25210'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Virgin River', 'imdb_rating': '7.5', 'metascore': None, 'votes': '8932'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'When They See Us', 'imdb_rating': '8.9', 'metascore': None, 'votes': '72107'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': '21 Bridges', 'imdb_rating': '6.6', 'metascore': '51        ', 'votes': '28815'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'All Rise', 'imdb_rating': '6.6', 'metascore': None, 'votes': '2408'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Cinayet Süsü', 'imdb_rating': '6.8', 'metascore': None, 'votes': '8680'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Stuber', 'imdb_rating': '6.1', 'metascore': '42        ', 'votes': '33350'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'A Beautiful Day in the Neighborhood', 'imdb_rating': '7.3', 'metascore': None, 'votes': '40990'}
+2020-05-17 09:20:11 [scrapy] DEBUG: Scraped from <200 https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31&start=51>
+{'judul': 'Triple Frontier', 'imdb_rating': '6.4', 'metascore': None, 'votes': '96970'}
+2020-05-17 09:20:11 [scrapy] INFO: Closing spider (closespider_itemcount)
+2020-05-17 09:20:11 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1073,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 100777,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'elapsed_time_seconds': 0.346405,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2020, 5, 17, 2, 20, 11, 512625),
+ 'httpcache/hit': 3,
+ 'item_scraped_count': 100,
+ 'log_count/DEBUG': 104,
+ 'log_count/INFO': 7,
+ 'memusage/max': 102744064,
+ 'memusage/startup': 102744064,
+ 'request_depth_max': 2,
+ 'response_received_count': 3,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2020, 5, 17, 2, 20, 11, 166220)}
+2020-05-17 09:20:11 [scrapy] INFO: Spider closed (closespider_itemcount)
