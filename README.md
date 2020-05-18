@@ -29,3 +29,4 @@ Settingan nya ada di folder: imdb/settings.py yaitu:
 CLOSESPIDER_ITEMCOUNT = 100
 
 Jika ingin scrape keseluruhan movie, buang line "CLOSESPIDER_ITEMCOUNT = 100" ini.
+(WARNING: Jika line ini dibuang, maka scrapyrt akan memproses keseluruhan 308.330 movies dan akan membutuhkan loading time yang sangat lama, sebelum akhirnya menampilkan tampilan data movies di web browser)
