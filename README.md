@@ -15,7 +15,7 @@ Total titles di imdb (url: https://www.imdb.com/search/title/?release_date=2019-
 
 Kode saya seharusnya bisa berhasil scrap semua titles. Tapi untuk project capstone ini, saya hentikan proses scrapingnya sampai 12.450 movies saja, dan output ke file: movies.csv
 
-File untuk exploratory data analysis dan data wrangling ada di:
+File untuk exploratory data analysis dan data wrangling ada di: imdb_scrapping.ipynb
 
 
 Note 3
