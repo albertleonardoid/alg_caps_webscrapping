@@ -15,12 +15,14 @@ Total titles di imdb (url: https://www.imdb.com/search/title/?release_date=2019-
 
 Kode saya seharusnya bisa berhasil scrap semua titles. Tapi untuk project capstone ini, saya hentikan proses scrapingnya sampai 12.450 movies saja, dan output ke file: movies.csv
 
+File untuk exploratory data analysis dan data wrangling ada di:
+
 
 Note 3
 
 File app.py ada di folder: web/app.py
 
-Saya menggunakan scrapyrt dan flask
+Saya menggunakan scrapyrt dan flask untuk menampilkan hasil scraping movies ke web browser.
 
 Untuk keperluan app.py, dan mempercepat proses penampilan di web, saya melimit scraping hanya sampai 100 movies.
 
@@ -29,4 +31,4 @@ Settingan nya ada di folder: imdb/settings.py yaitu:
 CLOSESPIDER_ITEMCOUNT = 100
 
 Jika ingin scrape keseluruhan movie, buang line "CLOSESPIDER_ITEMCOUNT = 100" ini.
-(WARNING: Jika line ini dibuang, maka scrapyrt akan memproses keseluruhan 308.330 movies dan akan membutuhkan loading time yang sangat lama, sebelum akhirnya menampilkan tampilan data movies di web browser)
+(WARNING: Jika line ini dibuang, maka scrapyrt akan memproses scraping keseluruhan 308.330 movies dan akan membutuhkan loading time yang sangaaaaaaaaaaaaaaat lama, sebelum akhirnya menampilkan hasil sraping movies di web browser)
