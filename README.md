@@ -13,7 +13,7 @@ Hasil scrap saya simpan sebagai file: movies.csv
 
 Total titles di imdb (url: https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31) ada 308,330 titles.
 
-Kode saya seharusnya bisa berhasil scrap semua titles. Tapi untuk project capstone ini, saya hentikan proses scrapingnya sampai 12.450 movies saja, dan output ke file csv: movies.csv
+Kode saya seharusnya bisa berhasil scrap semua titles. Tapi untuk project capstone ini, saya hentikan proses scrapingnya sampai 12.450 movies saja, dan output ke file: movies.csv
 
 
 Note 3
